@@ -9,4 +9,4 @@ This web application will be useful for an analysis of data from the databases a
 ##Country: Canada, France and Italy. colour:blue
 ##Price ranges , please kindly refer database.
 
-## For the analysis purpose, you can select multiple products or a single product from the country with an appropriate selection between price ranges.
+##For the analysis purpose, you can select multiple products or a single product from the country with an appropriate selection between price ranges.
