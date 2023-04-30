@@ -40,7 +40,9 @@ shinyUI <- fluidPage(theme = "styles.css",
                      tags$li(HTML("Price ranges , please kindly refer database."))),
                      tags$p(HTML("For the analysis purpose, you can select multiple products or a single product                                     from the country with an appropriate selection between price ranges.")),
                      tags$h2("GitHub",style = "color: #EDC6B1"),
-                     tags$em(HTML("Source code is available at <a href=\"https://github.com/kaplanas/Shiny-Lego\"                               >https://github.com/kaplanas/Shiny-Lego</a>."))
+                     tags$em(HTML("Source code is available at
+                                  <a href=\"https://github.com/vembarasugn/shinymyapp\">
+                                  https://github.com/vembarasugn/shinymyapp</a>."))
                            )
                          )
                       ),
